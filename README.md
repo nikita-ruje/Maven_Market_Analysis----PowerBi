@@ -23,5 +23,11 @@ Developed a dynamic Power BI dashboard that uncovers key insights from 100K+ tra
 ## + Additional Insights:
 * Hermanos emerged as the top product brand, generating the highest total transactions and profit.
 * Sales trends reveal that North America consistently performed better than other regions in terms of both transaction volume and profitability.
-* The company achieved a weekly revenue trend increase in Q4, possibly due to seasonal demand.
+* The company achieved a weekly revenue trend increase in Q4, possibly due to seasonal demand. <br/>
+
+## Dashboard Screenshot <br/><br/>
+
+
+  ![image](https://github.com/user-attachments/assets/4d772062-b1ce-4aa9-8d2a-526bd0043416)
+
 
